@@ -16,15 +16,15 @@ The analysis aims to answer the following key business questions:
 - What recommendations can improve overall sales performance?
 
 ## 🛠️ Tools Used
-# Planning
+## Planning
 - Miro
 - Figma
 - Canva
-# Data Processing 
+## Data Processing 
 - Databricks
-# Data Analysis
+## Data Analysis
 - Microsoft Excel
-# Data Visualization
+## Data Visualization
 - Microsoft Power BI
 Excel
 Presentation 
